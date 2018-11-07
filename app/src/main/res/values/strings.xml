@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InternalUpgradeDemo</string>
+    <string name="pack_name">com.wzx.test.internalupgradedemo</string>
+</resources>
